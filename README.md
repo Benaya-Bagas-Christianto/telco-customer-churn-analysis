@@ -42,3 +42,13 @@ Jika Anda ingin menjalankannya secara lokal di komputer (Windows):
 2. Clone repository ini.
 3. Klik dua kali pada file `KLIK_UNTUK_BUKA_NOTEBOOK.bat`.
 4. Browser akan otomatis terbuka menampilkan notebook interaktif.
+
+---
+
+<div align="center">
+
+Dibuat dan dianalisis oleh **[Benaya Bagas Christianto](https://github.com/Benaya-Bagas-Christianto)**
+
+*Berdedikasi untuk mentransformasi data kompleks menjadi insight bisnis yang strategis dan membangun solusi berbasis Machine Learning yang berdampak nyata.*
+
+</div>
