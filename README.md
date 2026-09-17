@@ -19,7 +19,6 @@ Industri telekomunikasi menghadapi tantangan besar dalam mempertahankan pelangga
 - `data/` : Folder berisi dataset mentah `WA_Fn-UseC_-Telco-Customer-Churn.csv` (7.043 baris × 21 kolom).
 - `images/` : Kumpulan 11 visualisasi hasil EDA dan evaluasi model Machine Learning.
 - `Telco_Customer_Churn_Analysis.ipynb` : Notebook utama (Jupyter) yang memuat keseluruhan analisis (End-to-End).
-- `KLIK_UNTUK_BUKA_NOTEBOOK.bat` : Shortcut otomatis untuk pengguna Windows guna menjalankan notebook dengan satu klik.
 
 ## Temuan Utama (Key Insights)
 1. **Titik Kritis Churn (Tenure):** Churn paling banyak terjadi pada **6 bulan pertama** berlangganan (mencapai >40%). Jika pelanggan berhasil melewati masa 2 tahun, persentase churn turun drastis di bawah 10%.
@@ -38,10 +37,9 @@ Industri telekomunikasi menghadapi tantangan besar dalam mempertahankan pelangga
 Bagi Anda yang melihat repository ini di GitHub, Anda bisa langsung mengklik file **`Telco_Customer_Churn_Analysis.ipynb`** untuk membaca keseluruhan proses analisis beserta visualisasinya langsung di browser Anda.
 
 Jika Anda ingin menjalankannya secara lokal di komputer (Windows):
-1. Pastikan Anda telah menginstal Python dan Jupyter.
+1. Pastikan Anda telah menginstal Python dan Jupyter (atau gunakan IDE seperti VS Code).
 2. Clone repository ini.
-3. Klik dua kali pada file `KLIK_UNTUK_BUKA_NOTEBOOK.bat`.
-4. Browser akan otomatis terbuka menampilkan notebook interaktif.
+3. Buka notebook menggunakan Jupyter Notebook atau VS Code.
 
 ---
 
